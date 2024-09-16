@@ -1,0 +1,17 @@
+.text-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+#home-text {
+    font-size: 50px;
+    padding: 0 10px;
+    text-align: center;
+    color: #515147;
+    background-color: rgba(232, 232, 230, 0.70);
+    padding: 20px;
+    border-radius: 30px;
+}
